@@ -43,11 +43,3 @@ Aplikasi ini adalah aplikasi CRUD sederhana untuk mengelola data produk mengguna
    ```
 
 2. Buka [http://localhost:3000](http://localhost:3000) di browser untuk melihat aplikasi.
-
-## Build Aplikasi
-
-Untuk membuat build aplikasi, jalankan:
-
-```bash
-npm run build
-```
